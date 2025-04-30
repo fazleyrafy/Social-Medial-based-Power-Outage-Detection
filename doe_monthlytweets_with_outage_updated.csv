@@ -1,0 +1,82 @@
+Event Description,Year,Event Date,State,Outage_status
+Winter Storm,2010,02/23/2010,NY,1
+Winter Storm,2010,02/25/2010,NY,1
+Winter Storm,2010,02/25/2010,NY,1
+Winter Storm,2010,02/25/2010,ME,1
+High Winds and Rain,2010,03/13/2010,CT,1
+High Winds and Rain,2010,03/13/2010,NY,1
+Voltage Reduction (System Test),2010,06/16/2010,NY,1
+Thunderstorms,2010,07/21/2010,CT,1
+Fuel Supply Defiency,2010,08/09/2010,NY,1
+Snow and High Winds,2010,11/08/2010,ME,1
+Fuel Supply Deficiency,2010,12/30/2010,NY,1
+Electrical Fault at Generator,2011,01/11/2011,NY,1
+Winter Storm,2011,01/12/2011,MA,1
+Vandalism,2011,01/18/2011,MA,1
+Fuel Supply Deficiency (Coal),2011,01/27/2011,NY,1
+Fuel Supply Deficiency (Coal),2011,03/01/2011,NY,1
+Fuel Supply Deficiency (Coal),2011,03/08/2011,NY,1
+Vandalism,2011,03/17/2011,NH,1
+Vandalism,2011,03/21/2011,NH,1
+Suspected Physical Attack,2011,05/02/2011,CT,1
+Suspected Physical Attack,2011,05/03/2011,NY,1
+Vandalism,2011,05/05/2011,NH,1
+Vandalism,2011,05/08/2011,NY,1
+Vandalism,2011,05/09/2011,NH,1
+Vandalism,2011,05/10/2011,NH,1
+Vandalism,2011,05/11/2011,NY,1
+Severe Thunderstorms,2011,06/09/2011,MA,1
+Vandalism,2011,06/23/2011,VT,1
+Vandalism,2011,07/01/2011,CT,1
+Vandalism,2011,07/06/2011,VT,1
+Vandalism,2011,07/11/2011,ME,1
+Vandalism,2011,07/12/2011,ME,1
+Vandalism,2011,07/19/2011,ME,1
+Public Appeal to Reduce Electricity Usage,2011,07/22/2011,NY,1
+Vandalism,2011,07/24/2011,NH,1
+Fuel Supply Deficiency (Coal),2011,08/03/2011,NY,1
+Suspected Physical Attack,2011,08/25/2011,ME,1
+Severe Weather,2011,08/28/2011,NY,1
+Severe Weather,2011,08/28/2011,NY,1
+Severe Weather,2011,08/28/2011,NY,1
+Severe Weather,2011,08/28/2011,NY,1
+Severe Weather,2011,08/28/2011,CT,1
+Severe Weather,2011,08/28/2011,NY,1
+Severe Weather,2011,08/28/2011,MA,1
+Severe Weather,2011,08/28/2011,NY,1
+Actual Physical Attack,2011,09/07/2011,NY,1
+Vandalism,2011,09/13/2011,NY,1
+Vandalism,2011,09/23/2011,CT,1
+Vandalism,2011,09/28/2011,CT,1
+Severe Weather,2011,10/29/2011,NY,1
+Severe Weather,2011,10/29/2011,NY,1
+Severe Weather,2011,10/29/2011,MA,1
+Severe Weather,2011,10/29/2011,NY,1
+Severe Weather,2011,10/29/2011,NY,1
+Vandalism,2011,11/13/2011,NH,1
+Vandalism,2012,01/09/2012,CT,1
+Suspected Physical Attack,2012,02/23/2012,NH,1
+Suspected Physical Attack,2012,03/30/2012,VT,1
+Vandalism,2012,04/03/2012,VT,1
+Vandalism,2012,04/11/2012,MA,1
+Physical Attack,2012,04/21/2012,MA,1
+Vandalism,2012,05/07/2012,VT,1
+Physical Attack,2012,05/24/2012,MA,1
+Vandalism,2012,06/06/2012,NY,1
+Load Shed,2012,06/23/2012,MA,1
+Fuel Supply Deficiency (Coal),2012,07/19/2012,NY,1
+Vandalism; Theft,2012,10/15/2012,VT,1
+Severe Weather - Hurricane Sandy,2012,10/29/2012,NY,1
+Severe Weather - Hurricane Sandy,2012,10/29/2012,MA,1
+Severe Weather - Hurricane Sandy,2012,10/29/2012,MA,1
+Severe Weather - Hurricane Sandy,2012,10/29/2012,MA,1
+Severe Weather - Hurricane Sandy,2012,10/29/2012,NY,1
+Severe Weather - Hurricane Sandy,2012,10/29/2012,NH,1
+Severe Weather - Hurricane Sandy,2012,10/29/2012,NY,1
+Severe Weather - Hurricane Sandy,2012,10/29/2012,NY,1
+Severe Weather - Hurricane Sandy,2012,10/29/2012,ME,1
+Vandalism,2012,10/30/2012,NH,1
+Physical Attack; Vandalism,2012,11/02/2012,VT,1
+Physical Attack; Vandalism,2012,11/07/2012,NH,1
+Physical Attack; Vandalism,2012,11/15/2012,MA,1
+Physical Attack; Vandalism,2012,11/27/2012,NH,1
